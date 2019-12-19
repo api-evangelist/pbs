@@ -1,0 +1,105 @@
+{
+    "name": "PBS",
+    "description": "Watch full episodes of your favorite PBS shows, explore music and the arts, find in-depth news analysis, and more. Home to Antiques Roadshow, Frontline, NOVA, PBS Newshour, Masterpiece and many others.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/369-pbs.jpg",
+    "tags": [
+        "entertainment",
+        "have api",
+        "meta",
+        "schedules",
+        "televisions",
+        "users",
+        "videos"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pbs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "PBS",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/369-pbs.jpg",
+            "humanURL": "http:\/\/www.pbs.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pbs-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.pbs.org"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pbs"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pbs"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/open.pbs.org\/home\/"
+        },
+        {
+            "type": "Email",
+            "url": "audienceservices@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "dgolub@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "gjmolnar@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "ahkumar@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "cjohnson@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "anfrederick@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "mvera@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "crflanagan@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "skkennard@pbs.org"
+        },
+        {
+            "type": "Email",
+            "url": "mmgodwin@pbs.org"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/pbs"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pbs"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.pbs.org\/"
+        }
+    ]
+}
